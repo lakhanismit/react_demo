@@ -21,9 +21,9 @@ let h = "hii"
 // …or push an existing repository from the command line ma je 3 link hoi tene terminal ma past krvi
 // pachhi git ne daily add krvano code pacho lakhvano
 
-// error :- remote origin already exists
-// when this error occures then 
-//  git remote remove origin    // add this code
+error :- remote origin already exists
+when this error occures then 
+ git remote remove origin    // add this code
 
 
 console.log(h);
