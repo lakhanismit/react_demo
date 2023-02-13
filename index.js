@@ -1,3 +1,3 @@
-const h = "hii"
+let h = "hii"
 
 console.log(h);
