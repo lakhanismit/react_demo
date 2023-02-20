@@ -7,7 +7,7 @@ let h = "hii"
 // git ne local ma set krva mate
 // new terminal ma aa code lakhvo
     // git config --global user.name lakhanismit
-    // git config --global user.name lakhanismit2062002@gmail.com
+    // git config --global user.user lakhanismit2062002@gmail.com
 
 
 // git ne daily add krva mate
